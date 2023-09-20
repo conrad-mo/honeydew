@@ -1,13 +1,9 @@
-import Image from "next/image";
-import * as React from "react"
-import { Button } from "@/components/ui/button"
+import Image from 'next/image'
 
 export default function Home() {
   return (
     <main className="">
-      <div>
-        <Button>Start</Button>
-      </div>
+      
     </main>
-  );
+  )
 }
